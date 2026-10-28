@@ -10,3 +10,5 @@ This is a simple neural network that recognizes 28x28 pixels handwritten single 
 `train.py`/`clean_train.py` consists of training the model using the data from mnist.npz
 
 `writing.py` is a simple tkinter GUI program that you can write on it.
+
+See the [results](Single%20Digit%20Handwritten%20Number%20Recognition.pdf)
