@@ -11,4 +11,4 @@ This is a simple neural network that recognizes 28x28 pixels handwritten single 
 
 `writing.py` is a simple tkinter GUI program that you can write on it.
 
-See the [results](Single%20Digit%20Handwritten%20Number%20Recognition.pdf)
+See the [maths and results](Single%20Digit%20Handwritten%20Number%20Recognition.pdf)
